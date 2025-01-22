@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 
 
 <!--
 **nataliebock/nataliebock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,20 +18,18 @@ Here are some ideas to get you started:
 
 ### Hi there, I'm Natalie
 
-[![Website](https://img.shields.io/website?label=franjcf.github.io&style=for-the-badge&url=https://franjcf.github.io//)](https://franjcf.github.io/)
+
 
 ## I'm a senior at the University of Notre Dame!
 
-- 🔭  I just 
-- 🌱  I am currently 
-- 🥅  Goals 
-- 👯  
-- ⚡ Fun fact: 
+- I am majoring in political science and minoring in Chinese and data science.  
+- I am currently taking an introduction to data science course
+- Goals: Improving my coding abilities. 
 
 ### Languages and Tools:
 
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
+<img align="left" alt="C++" width="26px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AR_logo.svg&psig=AOvVaw0WEYS22omJnIIALoBE0OT6&ust=1737676016853000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJCc2t_BiosDFQAAAAAdAAAAABAE" />
 <img align="left" alt="TensorFlow" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" />
 <img align="left" alt="Scikit-Learn" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png" />
 <img align="left" alt="Matlab" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png" />
