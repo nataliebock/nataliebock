@@ -37,9 +37,9 @@ Here are some ideas to get you started:
 <br />
 
 
-Latest Projects 📂 
+## Latest Projects 📂 
 
-[Data Science Course Projects](url)
+[https://github.com/nataliebock/Bock-Data-Science-Portfolio](url)
 
 
 
