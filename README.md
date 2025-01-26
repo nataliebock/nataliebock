@@ -16,9 +16,11 @@ Here are some ideas to get you started:
 -->
 
 ## I'm a senior at the University of Notre Dame 🎓 
-
 - Majoring in political science and minoring in Chinese and data science.  
-- I am currently taking a data science course where we are learning how to use Github.
+- I am currently taking a data science course where we are learning how to use Github to showcase our projects and assignments.
+
+## Research Interests 
+- I am particularly interested in using quantitiative methods and data analysis to evaluate American politics. 
 
 ## Research Experience 📚 
 - Current project: Research assistant in the Notre Dame political science department working on a project on the impact of women's suffrage on legislative outcomes.
@@ -26,11 +28,11 @@ Here are some ideas to get you started:
     - Research assistant studying the representation of women on local government boards (November 2023 - December 2024)
     - Research assitant analyzing the nationalization of US politics through evaluating candidate platforms on various political issues (May 2023 - August 2023)
 
-### Languages and Tools:
+### Languages and Tools 🧰 
 
-Python 
-
-R
+<img alight = "left" alt = "R" width = "26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" />
+          
+<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 
 ### Latest Projects 📕
 
