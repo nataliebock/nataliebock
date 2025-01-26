@@ -21,7 +21,10 @@ Here are some ideas to get you started:
 - I am currently taking a data science course where we are learning how to use Github.
 
 ## Research Experience 📚 
-- 
+- Current project: Research assistant in the Notre Dame political science department working on a project on the impact of women's suffrage on legislative outcomes.
+- Past projects:
+    - Research assistant studying the representation of women on local government boards (November 2023 - December 2024)
+    - Research assitant analyzing the nationalization of US politics through evaluating candidate platforms on various political issues (May 2023 - August 2023)
 
 ### Languages and Tools:
 
