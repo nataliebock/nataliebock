@@ -1,4 +1,4 @@
-## Hi there 
+## Hi there, I'm Natalie
 
 <!--
 **nataliebock/nataliebock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,16 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## I'm a senior at the University of Notre Dame 🎓 
 
-### Hi there, I'm Natalie
+- Majoring in political science and minoring in Chinese and data science.  
+- I am currently taking a data science course where we are learning how to use Github.
 
-
-
-## I'm a senior at the University of Notre Dame!
-
-- I am majoring in political science and minoring in Chinese and data science.  
-- I am currently taking an introduction to data science course
-- Goals: Improving my coding abilities. 
+## Research Experience 📚 
+- 
 
 ### Languages and Tools:
 
@@ -32,7 +29,7 @@ Python
 
 R
 
-### 📕 Latest Projects
+### Latest Projects 📕
 
 
 ### Connect with me:
