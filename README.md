@@ -37,7 +37,9 @@ Here are some ideas to get you started:
 <br />
 
 
+Latest Projects 📂 
 
+[Data Science Course Projects](url)
 
 
 
