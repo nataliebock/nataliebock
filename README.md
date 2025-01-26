@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 
 ## Latest Projects 📂 
 
-[https://github.com/nataliebock/Bock-Data-Science-Portfolio](url)
+[https://github.com/nataliebock/Bock-Data-Science-Portfolio/tree/main](url)
 
 
 
