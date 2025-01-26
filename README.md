@@ -25,7 +25,7 @@ Here are some ideas to get you started:
     - Research assistant studying the representation of women on local government boards (November 2023 - December 2024)
     - Research assitant analyzing the nationalization of US politics through evaluating candidate platforms on various political issues (May 2023 - August 2023)
 
-### Languages and Tools 🧰 
+## Languages and Tools 🧰 
 
 <img alight = "left" alt = "R" width = "26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" />
           
@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 
 
 
-### Connect with me:
+## Connect with me:
 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]: https://www.linkedin.com/in/nataliebock2025/ 
 
