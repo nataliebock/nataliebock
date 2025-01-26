@@ -1,4 +1,5 @@
 ## Hi there, I'm Natalie
+I'm a senior at the University of Notre Dame majoring in political science and minoring in Chinese and data science. I am currently taking a data science course where we are learning how to use Github to showcase our projects and assignments.
 
 <!--
 **nataliebock/nataliebock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,10 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-## I'm a senior at the University of Notre Dame 🎓 
-- Majoring in political science and minoring in Chinese and data science.  
-- I am currently taking a data science course where we are learning how to use Github to showcase our projects and assignments.
 
 ## Research Interests 
 - I am particularly interested in using quantitiative methods and data analysis to evaluate American politics. 
