@@ -26,14 +26,10 @@ Here are some ideas to get you started:
     - Research assistant analyzing the nationalization of US politics through evaluating candidate platforms on various political issues (May 2023 - August 2023)
 
 ## Languages and Tools 🧰 
-# Languages:
+
 <img alight = "left" alt = "R" width = "26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" />
           
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-
-Tools: 
-- Microsoft Office (Excel, Word and PowerPoint)
-- Qualtrics
 
 
 <br />
