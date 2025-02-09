@@ -46,7 +46,10 @@ Here are some ideas to get you started:
 
 
 ## Goals 🥅 
-- By the end of this semester, I hope to improve my Python coding abilities and learn how to make more advanced visualizations in Python. 
+- By the end of this semester, I hope to:
+    - Improve my Python coding abilities 
+    - Learn how to make more advanced visualizations in Python
+    - Better understand statistical analysis and how to utilize and present regressions 
 
 
 
