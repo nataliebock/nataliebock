@@ -40,7 +40,6 @@ Here are some ideas to get you started:
 - Recently: I created a basic Streamlit app in Python looking at data about penguins. 
 - This year: I am currently working on a senior thesis on how party identification influences consumer preferences in America. I am using R to analyze the survey and interview data I collected. 
 
-[https://github.com/nataliebock/Bock-Data-Science-Portfolio/tree/main](url)
 
 
 
