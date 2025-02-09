@@ -59,9 +59,6 @@ Here are some ideas to get you started:
 <br />
 
 
-
-![Workflow Status](https://github.com/nataliebock/README/actions/workflows/WORKFLOW_FILE/badge.svg)
-
 ---
 
 
