@@ -17,13 +17,13 @@ Here are some ideas to get you started:
 -->
 
 ## Research Interests 🌱
-- I am particularly interested in using quantitiative methods and data analysis to evaluate political topics. 
+- I am interested in using quantitative methods and data analysis to evaluate political topics. 
 
 ## Research Experience 📚 
 - Current project: Research assistant in the Notre Dame political science department working on a project on the impact of women's suffrage on legislative outcomes.
 - Past projects:
     - Research assistant studying the representation of women on local government boards (November 2023 - December 2024)
-    - Research assitant analyzing the nationalization of US politics through evaluating candidate platforms on various political issues (May 2023 - August 2023)
+    - Research assistant analyzing the nationalization of US politics through evaluating candidate platforms on various political issues (May 2023 - August 2023)
 
 ## Languages and Tools 🧰 
 
@@ -38,13 +38,16 @@ Here are some ideas to get you started:
 
 
 ## Latest Projects 📂 
+- Recently: I created a basic Streamlit app in Python looking at data about penguins. 
+- This year: I am currently working on a senior thesis on how party identification influences consumer preferences in America. I am using R to analyze the survey and interview data I collected. 
 
 [https://github.com/nataliebock/Bock-Data-Science-Portfolio/tree/main](url)
 
 
 
 
-
+## Goals 🥅 
+- By the end of this semester, I hope to improve my Python coding abilities and learn how to make more advanced visualizations in Python. 
 
 
 
