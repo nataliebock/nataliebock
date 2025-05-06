@@ -1,7 +1,7 @@
 # Hi, I'm Natalie
 
 ## About Me 
-I'm a senior at the University of Notre Dame majoring in political science and minoring in Chinese and data science. This semester, I took a data science course where we learned how to use Github to showcase our projects and assignments.
+I'm from the greater Chicago area and am currently a senior at the University of Notre Dame majoring in political science and minoring in Chinese and data science.  I am interested in using quantitative methods and data analysis to evaluate political topics. This semester, I took a data science course where we learned how to use Github to showcase our projects and assignments. These projects developed and strengthened skills including making Streamlit apps, programming and using different types of machine learning, and visualizing data.
 
 ## Connect with me:
 
@@ -10,23 +10,6 @@ I'm a senior at the University of Notre Dame majoring in political science and m
 📧 nbock2@nd.edu
 
 📍 Notre Dame, IN
-<!--
-**nataliebock/nataliebock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-## Research Interests 🌱
-- I am interested in using quantitative methods and data analysis to evaluate political topics. 
 
 ## Research Experience 📚 
 - **Current projects:**
@@ -47,35 +30,14 @@ Here are some ideas to get you started:
 
 **Python Packages and Skills:**  Streamlit, Pandas, Numpy, Seaborn, Matplotlib, Scikit Learn, Graphviz, Supervised and Unsupervised Machine Learning, Decision Trees, Logistic Regression, and Linear Regression, K-means clustering, Hierarchical clustering, Principal Component Analysis (PCA), data cleaning, and data visualization.
 
-
-<br />
-<br />
-
 ## Education
 - **Bachelors** in political science from the University of Notre Dame
 
 
 ## Latest Projects 📂 
-- **Recently:** Created an Upsupervised Machine Learning app in Streamlit. To view the project, click [here](https://github.com/nataliebock/Bock-Data-Science-Portfolio/tree/main/MLUnsupervisedApp)
-- **This year:** I am currently working on a senior thesis on how party identification influences consumer preferences in America. I am using R to analyze the survey and interview data I collected. 
+- [Upsupervised Machine Learning app in Streamlit](https://github.com/nataliebock/Bock-Data-Science-Portfolio/tree/main/MLUnsupervisedApp)
+- [Supervised Machine Learning app in Streamlit](https://github.com/nataliebock/Bock-Data-Science-Portfolio/tree/main/MLStreamlitApp)
 
-
-
-
-
-## Goals 🥅 
-- By the end of this semester, I hope to:
-    - Improve my Python coding abilities 
-    - Learn how to make more advanced visualizations in Python
-    - Better understand statistical analysis and how to utilize and present regressions 
-
-
-
-
-
-
-
-<br />
 
 
 ---
