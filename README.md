@@ -1,7 +1,7 @@
 # Hi, I'm Natalie
 
 ## About Me 
-I'm a senior at the University of Notre Dame majoring in political science and minoring in Chinese and data science. I am currently taking a data science course where we are learning how to use Github to showcase our projects and assignments. 
+I'm a senior at the University of Notre Dame majoring in political science and minoring in Chinese and data science. This semester, I took a data science course where we learned how to use Github to showcase our projects and assignments.
 
 ## Connect with me:
 
