@@ -1,6 +1,9 @@
 ## Hi, I'm Natalie
 I'm a senior at the University of Notre Dame majoring in political science and minoring in Chinese and data science. I am currently taking a data science course where we are learning how to use Github to showcase our projects and assignments. 
 
+### Connect with me:
+
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]linkedin: https://www.linkedin.com/in/nataliebock2025/ 
 <!--
 **nataliebock/nataliebock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -53,9 +56,7 @@ Here are some ideas to get you started:
 
 
 
-## Connect with me:
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]linkedin: https://www.linkedin.com/in/nataliebock2025/ 
 
 
 <br />
