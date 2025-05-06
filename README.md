@@ -22,9 +22,11 @@ I'm from the greater Chicago area and am currently a senior at the University of
 ## Languages and Tools 🧰 
 
 <img alight = "left" alt = "R" width = "26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" />
-<img align= "middle" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 
 **R Packages and Skills:** Ggplot2, Tidyverse, Dplyr, Haven, Linear Regression, data cleaning and data visualization.
+<img align= "middle" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+
+
           
 **Python Packages and Skills:**  Streamlit, Pandas, Numpy, Seaborn, Matplotlib, Scikit Learn, Graphviz, Supervised and Unsupervised Machine Learning, Decision Trees, Logistic Regression, and Linear Regression, K-means clustering, Hierarchical clustering, Principal Component Analysis (PCA), data cleaning, and data visualization.
 
