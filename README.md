@@ -31,7 +31,7 @@ I'm from the greater Chicago area and am currently a senior at the University of
 - **Quantitative Political Analysis**: Applied statistical concepts and data analysis to American political science concepts using R. These included programming and evaluating Hypothesis Testing, Probabilities, and Bivariate and Multivariate Regression models.
    - **Final Project:** Evaluating the characteristics of Americans who donate to political campaigns through linear regression models. Evaluated factors including education and income. 
 
-- **Elements of Computing**: Introductory course in Python. Learned about the ethics of data collection and analysis.
+- **Elements of Computing**: Learning the basics of python coding including using dictionaries, loops, writing conditional statements and using packages like Pandas and Seaborn. Created basic visualizations and evalauted summary statistics for exploratory data analysis project.
 
 ## Languages and Tools 🧰 
 
