@@ -46,7 +46,7 @@ I'm from the greater Chicago area and am currently a senior at the University of
 **Python Packages and Skills:**  Streamlit, Pandas, Numpy, Seaborn, Matplotlib, Scikit Learn, Graphviz, Supervised and Unsupervised Machine Learning, Decision Trees, Logistic Regression, and Linear Regression, K-means clustering, Hierarchical clustering, Principal Component Analysis (PCA), data cleaning, and data visualization.
 
 ## Education 🎓 
-- **Bachelors** in political science from the University of Notre Dame
+- **Bachelors** in Political Science from the University of Notre Dame
 
 
 
