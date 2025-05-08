@@ -1,7 +1,7 @@
 # Hi, I'm Natalie
 
 ## About Me 
-I'm from the greater Chicago area and am currently a senior at the University of Notre Dame majoring in political science and minoring in Chinese and data science.  I am interested in using quantitative methods and data analysis to evaluate political topics. This semester, I took a data science course where we learned how to use Github to showcase our projects and assignments. These projects developed and strengthened skills including making Streamlit apps, programming and using different types of machine learning, and visualizing data.
+I'm from the greater Chicago area and am currently a senior at the University of Notre Dame majoring in political science and minoring in Chinese and data science.  I am interested in using quantitative methods and data analysis to evaluate political topics. This semester, I took a data science course where we learned how to use Github to showcase our projects and assignments. These projects developed and strengthened skills including making [Unsupervised](https://github.com/nataliebock/Bock-Data-Science-Portfolio/blob/main/MLUnsupervisedApp/README.md) and [Supervised](https://github.com/nataliebock/Bock-Data-Science-Portfolio/tree/main/MLStreamlitApp) machine learning Streamlit apps, and learning how to apply [tidy data principles](https://github.com/nataliebock/Bock-Data-Science-Portfolio/tree/main/TidyData-Project) to data cleaning exploratory data analysis.
 
 ## Connect with me:
 
