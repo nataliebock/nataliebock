@@ -29,9 +29,9 @@ I'm from the greater Chicago area and am currently a senior at the University of
 - **Visualizing Politics**: Conducted a semester-long project evaluating the impact of campaign finance on the incumbent advantage in U.S. Congress. The course focused on how to use **data visualizations** created in **R** to craft an argument and analysis.
 
 - **Quantitative Political Analysis**: Applied statistical concepts and data analysis to American political science concepts using R. These included programming and evaluating Hypothesis Testing, Probabilities, and Bivariate and Multivariate Regression models.
-   - **Final Project:** Evaluating the characteristics of Americans who donate to political campaigns through linear regression models. Evaluated factors including education and income. 
+   - **Final Project:** Evaluating the characteristics of Americans who donate to political campaigns through linear regression models.
 
-- **Elements of Computing**: Learning the basics of python coding including using dictionaries, loops, writing conditional statements and using packages like Pandas and Seaborn. Created basic visualizations and evalauted summary statistics for exploratory data analysis project.
+- **Elements of Computing**: Learning the basics of Python coding, including using dictionaries, loops, writing conditional statements, and using packages like Pandas and Seaborn. Created basic visualizations and evaluated summary statistics for an exploratory data analysis project.
 
 ## Languages and Tools 🧰 
 
