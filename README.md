@@ -47,6 +47,7 @@ I'm from the greater Chicago area and am currently a senior at the University of
 
 ## Education 🎓 
 - **Bachelors** in Political Science from the University of Notre Dame
+  - **Minors**: Data Science and Chinese
 
 
 
